@@ -1,0 +1,1 @@
+document.getElementById("intro").innerHTML = "the full of URL page is:<br>" + window.location.href;
